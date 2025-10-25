@@ -3,7 +3,7 @@
 Mateo Osorio
 
 Desarrollador de Software | Estudiante de Ingeniería de Sistemas - Universidad Tecnológica de Pereira
-🚀 Tecnologías y Habilidades
+Tecnologías y Habilidades
 
     Lenguajes: Java, Python, C, C++, GDScript
 
