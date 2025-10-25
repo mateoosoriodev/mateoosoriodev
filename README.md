@@ -12,4 +12,4 @@ Desarrollador de Software | Estudiante de Ingeniería de Sistemas - Universidad 
     Conceptos Sólidos: Lógica de programación, Estructuras de datos, Algoritmos.
 
 
-    **LinkedIn:** [https://www.linkedin.com/in/mateoosoriodev/](https://www.linkedin.com/in/mateoosoriodev/)
+ **LinkedIn:** [https://www.linkedin.com/in/mateoosoriodev/](https://www.linkedin.com/in/mateoosoriodev/)
