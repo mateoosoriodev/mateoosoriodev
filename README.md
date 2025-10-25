@@ -1,6 +1,15 @@
 ![Banner](https://github.com/mateoosoriodev/mateoosoriodev/blob/69c7880e10ebf527b3c84489f9af4ed547033ac9/banner_marca_personal.png)
 
-### 👋 ¡Hola! Soy Mateo Osorio Cardona  
-Estudiante de Ingeniería de Sistemas | Desarrollador en formación  
-💻 Python • C++ • Web Development  
-⚡ Aprendiendo y creando proyectos cada día.
+Mateo Osorio
+
+Desarrollador de Software | Estudiante de Ingeniería de Sistemas - Universidad Tecnológica de Pereira
+🚀 Tecnologías y Habilidades
+
+    Lenguajes: Java, Python, C, C++, GDScript
+
+    Desarrollo Web: HTML, CSS, JavaScript.
+
+    Conceptos Sólidos: Lógica de programación, Estructuras de datos, Algoritmos.
+
+
+    Likedin : https://www.linkedin.com/in/mateoosoriodev/
